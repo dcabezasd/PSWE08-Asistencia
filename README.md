@@ -19,3 +19,4 @@ Semana 14 | Lista de asistencia final
 9. Manuel Astua
 10. Gabriel Sanabria
 11. Katherine Canales
+12. Eddie Mora
