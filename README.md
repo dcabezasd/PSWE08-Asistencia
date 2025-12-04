@@ -20,3 +20,4 @@ Semana 14 | Lista de asistencia final
 10. Gabriel Sanabria
 11. Katherine Canales
 12. Eddie Mora
+13. Wilmer Rodríguez
