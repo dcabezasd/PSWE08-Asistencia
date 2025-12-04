@@ -4,7 +4,7 @@ Semana 14 | Lista de asistencia final
 
 
 
-`git commit -m "\[ADD] NOMBRE\_APELLIDO - Posicion #`
+`git commit -m "[ADD] NOMBRE_APELLIDO - Posicion #`
 
 
 
