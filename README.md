@@ -7,6 +7,7 @@ Semana 14 | Lista de asistencia final
 `git commit -m "[ADD] NOMBRE_APELLIDO - Posicion #`
 
 
+ m "[ADD] Abigail_Usuga - Posicion #14
 
 1. Diego Cabezas
 2. Angelo Escalante
