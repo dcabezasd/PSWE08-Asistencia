@@ -23,3 +23,4 @@ Semana 14 | Lista de asistencia final
 12. Eddie Mora
 13. Wilmer Rodríguez
 14. Abigail Usuga 
+15. Jokser Salazar
