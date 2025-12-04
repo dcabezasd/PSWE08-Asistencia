@@ -12,3 +12,4 @@ Semana 14 | Lista de asistencia final
 2. Angelo Escalante
 3. Anthony Mairena
 4. Sidney Rodríguez
+5. Jhon Serrano
