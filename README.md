@@ -17,3 +17,4 @@ Semana 14 | Lista de asistencia final
 7. Esteban Víquez
 8. Katherine Calderon
 9. Manuel Astua
+10. Gabriel Sanabria
