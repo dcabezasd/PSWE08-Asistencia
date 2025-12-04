@@ -9,4 +9,4 @@ Semana 14 | Lista de asistencia final
 
 
 1. Diego Cabezas
-4. Jhon Serrano
+5. Jhon Serrano
