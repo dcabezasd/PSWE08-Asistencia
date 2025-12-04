@@ -7,7 +7,7 @@ Semana 14 | Lista de asistencia final
 `git commit -m "[ADD] NOMBRE_APELLIDO - Posicion #`
 
 
- m "[ADD] Abigail_Usuga - Posicion #14
+
 
 1. Diego Cabezas
 2. Angelo Escalante
@@ -22,3 +22,4 @@ Semana 14 | Lista de asistencia final
 11. Katherine Canales
 12. Eddie Mora
 13. Wilmer Rodríguez
+14. Abigail Usuga 
