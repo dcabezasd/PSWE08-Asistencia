@@ -13,3 +13,4 @@ Semana 14 | Lista de asistencia final
 3. Anthony Mairena
 4. Sidney Rodríguez
 5. Jhon Serrano
+6. Esteban Ruiz
