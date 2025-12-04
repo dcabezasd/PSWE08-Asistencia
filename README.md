@@ -14,3 +14,4 @@ Semana 14 | Lista de asistencia final
 4. Sidney Rodríguez
 5. Jhon Serrano
 6. Esteban Ruiz
+7. Esteban Víquez
